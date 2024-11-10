@@ -28,7 +28,7 @@ try {
     const transactions = [
         new Transaction(1, "buy", 45), 
         new Transaction(2, "sell", 130),
-        new Transaction(3, "buy", 9)
+        new Transaction(3, "buy", 30)
 ];
 // Code meant to be tested using the code above. 
     displayTransactions(transactions);
